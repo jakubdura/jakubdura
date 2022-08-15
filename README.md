@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Jackob from Poland, and I build things for the web. 
-You can check out my website jakubdura.pl 
+You can check out my website www.jakubdura.pl 
 
 
 
