@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jackob</h1>
 <h3 align="center">I build things for the web and more</h3>
 
