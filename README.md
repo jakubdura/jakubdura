@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Jackob</h1>
 <h3 align="center">I build things for the web and more</h3>
 
+![I am GitHub Readme Generator's creator](https://github.com/jakubdura/jakubdura/blob/main/banerScreenshot.jpg?raw=true)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubdura&label=Profile%20views&color=0e75b6&style=flat" alt="jakubdura" /> </p>
 
 - 🔭 I’m currently working on [EasyRoofEstimate](jakubdura.pl)
