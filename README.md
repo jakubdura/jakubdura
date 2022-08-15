@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I'm Jackob from Poland, and I build things for the web. 
+You can check out my website jakubdura.pl 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **jakubdura/jakubdura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
