@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jackob</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">I build things for the web and more</h3>
 
 ![I am GitHub Readme Generator's creator](https://github.com/jakubdura/jakubdura/blob/main/banerScreenshot.jpg?raw=true)
